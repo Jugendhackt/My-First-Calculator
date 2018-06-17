@@ -1,0 +1,23 @@
+button{
+	background-color:#2f84a3;
+	width: 130px;
+	}
+ 
+body{
+	background-image:url("hintergrund2.png");
+	text-align: center;
+	}
+
+h2{color: white;
+text-align: center;
+}
+
+span{
+	color: white;
+}
+
+p{color: white
+}
+
+input{width: 50px
+}
